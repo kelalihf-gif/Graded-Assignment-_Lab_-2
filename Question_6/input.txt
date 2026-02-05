@@ -1,0 +1,3 @@
+Hello, world! This is a test.
+Longestwordhere appears once; short words: a I it.
+Hello hello HELLO test Test tEsT.
